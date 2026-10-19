@@ -53,13 +53,11 @@
 
 ## 🚀 Featured Projects
 
-### [PlantillaLoginU](https://github.com/Daniel00503/PlantillaLoginU)
+### [proyecto-javafx](https://github.com/Daniel00503/proyecto-javafx)
 
-JavaFX login template using MySQL and Maven. A project for practicing desktop application development and project configuration.
+Login system built with JavaFX, Hibernate and MySQL as a team project for my OOP course. I created and manage the repository, using a protected `main` branch, feature branches and Pull Requests with code review.
 
-### [InventarioTienda](https://github.com/Daniel00503/InventarioTienda)
-
-Store inventory management application focused on CRUD operations and database integration using Hibernate.
+🔨 More projects coming soon.
 
 ---
 
