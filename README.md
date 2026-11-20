@@ -51,6 +51,17 @@
 
 ---
 
+## 🏅 Certifications
+
+<p>
+  <a href="https://www.hackerrank.com/certificates/iframe/3c0b8e3d6d7a">
+    <img src="https://img.shields.io/badge/HackerRank-Java%20(Basic)%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Java (Basic) Certificate">
+  </a>
+</p>
+
+---
+
+
 ## 🚀 Featured Projects
 
 ### [proyecto-javafx](https://github.com/Daniel00503/proyecto-javafx)
